@@ -1,4 +1,5 @@
 ## IFSM300
+{: color: red}
 
 Information Systems in Organizations 
 
